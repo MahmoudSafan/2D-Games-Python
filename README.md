@@ -14,6 +14,13 @@
    ##### 2) open code with IDE like suplime, pycharm or VS .
    ##### 3) Enjoy with coolest game ever .
    
+## Additional resources
+   #### Awesome Games in ##Java by my friends [Eng.Mahmoud Khaled](https://github.com/MahmoudKhalid-eng) , [Eng.Mshall](https://github.com/MahmoudSafan/brick_breaker-)
+   
+   ### Youtube Channels, will help you 
+   [Java Swing](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRhWDkdkM4jSTPW3CgxKH8G) , [Piano Game in Java](https://www.youtube.com/playlist?list=PLrqwM2iFaguigFGMfG4f4H516zVByp97N) , [Programming Snake in Java](https://www.youtube.com/playlist?list=PLeu88eczl8cwpK4QGRP1F9H9-Pa-SN71T) 
+   <br>
+   [Learn python from zero](https://www.youtube.com/playlist?list=PL2jykFOD1AWaHtshyHwiP5sTQNQW4L0k_) , [Snake Game in python turtle](https://www.youtube.com/playlist?list=PLlEgNdBJEO-n8k9SR49AshB9j7b5Iw7hZ)
 
 
 ### contact me if you have any questions
