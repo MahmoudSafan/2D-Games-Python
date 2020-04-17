@@ -9,7 +9,7 @@
 
 ## How to use my code
    ##### 1) git clone or download any game you like, don't move any file or image to another directory .
-   ##### 2) open code with IDE like suplime, pycharm or VS .
+   ##### 2) open code with IDE like sublime, pycharm or VS .
    ##### 3) Enjoy with coolest game ever .
    
 ## Additional resources
