@@ -1,6 +1,6 @@
 # Simple games in [python turtle] 
 
-<img src="https://github.com/MahmoudSafan/games/blob/master/snake/video/Screencast_04-03-2020_04_00_03-AM-_convert-video-online.com_.gif" width ="300" height="300">  <img src="https://github.com/MahmoudSafan/games/blob/master/CORONA-ATTACK/video/covid19.gif" width ="300" height= "300">
+<img src="https://github.com/MahmoudSafan/games/blob/master/snake/video/Screencast_04-03-2020_04_00_03-AM-_convert-video-online.com_.gif" width ="400" height="400">    <img src="https://github.com/MahmoudSafan/games/blob/master/CORONA-ATTACK/video/covid19.gif" width ="400" height= "400">
 
 
 
