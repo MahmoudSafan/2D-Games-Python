@@ -16,7 +16,7 @@
    
 
 
-### contact me if you have any questions :-
+### contact me if you have any questions
    #### [Facebook](https://www.facebook.com/mahmoud.safan.771)
    #### [Twitter](https://twitter.com/MahmoudSafan55)
    #### [Linkedin](https://www.linkedin.com/in/mahmoud-safan-2ba362192/)
