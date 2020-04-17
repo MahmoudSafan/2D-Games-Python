@@ -1,6 +1,6 @@
 # Simple games in [python turtle] 
 
-![](https://github.com/MahmoudSafan/games/blob/master/snake/video/Screencast_04-03-2020_04_00_03-AM-_convert-video-online.com_.gif = 250*250)    ![](https://github.com/MahmoudSafan/games/blob/master/CORONA-ATTACK/video/covid19.gif = 250*250)
+![](https://github.com/MahmoudSafan/games/blob/master/snake/video/Screencast_04-03-2020_04_00_03-AM-_convert-video-online.com_.gif = 250x250)    ![](https://github.com/MahmoudSafan/games/blob/master/CORONA-ATTACK/video/covid19.gif = 250x250)
 
 
 
