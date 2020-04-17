@@ -1,6 +1,6 @@
 # Simple games in [python turtle] 
 
-<img src="https://github.com/MahmoudSafan/games/blob/master/snake/video/Screencast_04-03-2020_04_00_03-AM-_convert-video-online.com_.gif" width ="400" height="400">    <img src="https://github.com/MahmoudSafan/games/blob/master/CORONA-ATTACK/video/covid19.gif" width ="400" height= "400">
+<img src="https://github.com/MahmoudSafan/games/blob/master/snake/video/Screencast_04-03-2020_04_00_03-AM-_convert-video-online.com_.gif" width ="500" height="500">    <img src="https://github.com/MahmoudSafan/games/blob/master/CORONA-ATTACK/video/covid19.gif" width ="500" height= "500">
 
 
 
@@ -17,6 +17,6 @@
 
 
 ### contact me if you have any questions :-
-   #### [Facebook](https://www.facebook.com/mahmoud.safan.771)             [Twitter](https://twitter.com/MahmoudSafan55)
+   #### [Facebook](https://www.facebook.com/mahmoud.safan.771)                                              [Twitter](https://twitter.com/MahmoudSafan55)
    #### [Linkedin](https://www.linkedin.com/in/mahmoud-safan-2ba362192/)
    
